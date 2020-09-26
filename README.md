@@ -22,14 +22,6 @@ This project consist of 3 packages and one main python file.
    - Cracking.py
 - main.py
 
-Flask Web used for Part 2- Task 4(End to end encryption)
-
-PolyAlphabeticCipher used for Part 1's tasks
-
-SDES used for Part 2- Task 1, Task 2, Task 3.
-
-main.py calls all the packages and run all the task in the small blocks.
-For example
 
 ```
 ###TASK 3 ###
